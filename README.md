@@ -23,7 +23,7 @@ A simple FastAPI-based backend for managing users and orders, featuring JWT auth
 
 1. **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/suplexsharma/task-mini-order-api
     cd mini-order-api
     ```
 
